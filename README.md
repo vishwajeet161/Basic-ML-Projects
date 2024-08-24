@@ -33,3 +33,38 @@ To explore or run the projects, follow these steps:
    ```bash
    git clone https://github.com/yourusername/ml-projects.git
    cd ml-projects
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+3. Launch Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   
+### Running the Scripts:
+1. You can run the .py files directly using
+   ```bash
+   python project_name.py
+   
+### Note:
+For projects with both a notebook and a script, you can explore the logic in the notebook and run the script for more optimized code.
+
+### Dependencies
+The following libraries are used across the projects:
+- Python 3.x
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Jupyter Notebook (for .ipynb files)
+
+### How to Contribute
+If you have suggestions, bug reports, or want to contribute new projects, feel free to:
+1. Fork the repository.
+2. Create a new branch.
+3. Submit a pull request.
+
+### Contact
+Feel free to reach out for questions or collaboration:
+- Email: vishwajeet.patel161@gmail.com
+- GitHub: https://github.com/vishwajeet161
+
