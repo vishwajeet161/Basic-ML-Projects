@@ -11,13 +11,6 @@ Welcome to my collection of basic machine learning projects! This repository inc
    - **Techniques**: Linear Regression, Random Forest, Gradient Boosting.
    - **Libraries Used**: Scikit-learn, Pandas, Matplotlib.
 
-2. **[Add Other Projects]**
-   - **Notebook**: `[project_name].ipynb`
-   - **Script**: `[project_name].py`
-   - **Description**: Brief explanation of each project.
-   - **Techniques**: Mention key ML techniques used.
-   - **Libraries Used**: Mention major libraries.
-
 ## Structure
 
 - **Jupyter Notebooks (`.ipynb`)**: Used for interactive data exploration, visualization, and step-by-step explanation of the ML process. These notebooks are ideal for learning and demonstration purposes.
